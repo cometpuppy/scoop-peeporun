@@ -1,12 +1,12 @@
 {
-    "version": "0.1.5",
+    "version": "0.1.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cometpuppy/peeporun/releases/download/v0.1.5/peeporun_windows_amd64.zip",
+            "url": "https://github.com/cometpuppy/peeporun/releases/download/v0.1.6/peeporun_windows_amd64.zip",
             "bin": [
                 "peeporun.exe"
             ],
-            "hash": "500acb269104cf22e9460e4a720a1f6b81f5332ef571ec17d074498bda03b3ab"
+            "hash": "fad21bef3268d2c6281e8c78f82de41859f4f86cb391bf7d186e150a9f0edf76"
         }
     },
     "homepage": "https://github.com/cometpuppy/peeporun",
